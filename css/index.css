@@ -10,6 +10,15 @@
     text-align: center;
 }
 
+.greystone{
+  border-radius: 50%;
+}
+
+.ed{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 
 
 .foto{
@@ -23,13 +32,6 @@
     text-align: center;
 }
 
-
-
-.Education{
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
 
 .contact{
   align-items: center;
