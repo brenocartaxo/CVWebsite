@@ -1,0 +1,63 @@
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#title2{
+    text-align: center;
+}
+
+.greystone{
+  border-radius: 50%;
+}
+
+
+
+.nav-link:hover {
+  background-color: #0d6efd;
+  color: white !important;
+  border-radius: 0.2rem;
+  transition: background-color 0.3s ease;
+}
+
+.nav-link.active {
+  background-color: #0d6efd !important;
+  color: white !important;
+  border-radius: 0.2rem;
+}
+
+
+
+.ed{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+
+.foto{
+  width: 25%;
+  margin-left: 37%;
+  text-align: center;
+}
+
+
+.name{
+    text-align: center;
+}
+
+
+.contact{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-left: 50px;
+}
+
+.contact > *{
+  padding-top: 5px;
+}
